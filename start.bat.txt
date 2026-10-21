@@ -1,0 +1,5 @@
+@echo off
+title 2D Chat Server
+echo Starter 2D Chat Server...
+npm start
+pause
